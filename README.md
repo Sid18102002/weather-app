@@ -1,2 +1,1 @@
-"# weather-app" 
-"# weather-app" 
+weather app using HTML, CSS, JavaScript which uses OpenWeatherMap API
